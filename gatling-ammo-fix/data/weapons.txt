@@ -8,7 +8,6 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
-
 outfit "Gatling Gun Ammo"
 	plural "Gatling Gun Ammo"
 	category "Ammunition"
@@ -16,4 +15,5 @@ outfit "Gatling Gun Ammo"
 	thumbnail "outfit/bullet"
 	"mass" .002
 	"gatling round capacity" -1
-	description "This simple cartridge is the ammunition for the Gatling Gun, with a projectile core of depleted nuclear fuel or an illuminated tracer round. Since this ammunition is manufactured basically everywhere in galaxy - using any available materials and in varied working conditions - muzzle velocity can vary by up to 30%, and tracer distribution is seldom uniform."
+	remove description
+	description "Officially, though, everywhere in galaxy it is manufactured, up to specifications, in tightly controlled conditions. Given that Gatling Guns are most prominent in the "Galactic South", the discrepancy between declarations and harsh reality seems to be ignored by the Republic authorities, so far."
