@@ -16,7 +16,7 @@ Unpack to your ES plugins folder. Be sure that you have single ``gatling-ammo-fi
 ```(...)/plugins/gatling-ammo-fix/(.../data/, /images/ and other stuff)```
 
 
-- it **won't** work if the directory structure will be anything like:
+It **won't** work if the directory structure will be anything like:
 
 ```(...)/plugins/Gatling-Ammo-Fix/gatling-ammo-fix/(...)```
 
