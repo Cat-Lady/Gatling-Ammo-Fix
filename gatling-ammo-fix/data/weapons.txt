@@ -9,11 +9,4 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 outfit "Gatling Gun Ammo"
-	plural "Gatling Gun Ammo"
-	category "Ammunition"
-	cost 4
-	thumbnail "outfit/bullet"
-	"mass" .002
-	"gatling round capacity" -1
-	remove description
 	description `Officially, though, everywhere in galaxy it is manufactured up to specifications, in tightly controlled conditions. Given that Gatling Guns are most prominent in the "Galactic South", the discrepancy between declarations and harsh reality seems to be ignored by the Republic authorities, so far.`
