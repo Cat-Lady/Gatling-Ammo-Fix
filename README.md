@@ -5,7 +5,7 @@ This plugin fixes availability of Gatling Gun Ammo (and its boxes) - being most 
 ![Gatling Ammo Image](/gatling-ammo-fix/icon.png?raw=true "Gatling Ammo Image")
 
 
-### Installing
+## Installing
 
 
 Check:
