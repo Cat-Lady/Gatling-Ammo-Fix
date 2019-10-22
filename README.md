@@ -13,7 +13,7 @@ https://github.com/Cat-Lady/Gatling-Ammo-Fix/releases
 
 ...for latest, pre-packaged version.
 
-Unpack to your ES plugins folder. Be sure that you have single ``gatling-ammo-fix`` directory inside your plugin folder, containing ``data`` directory. Directory structure should look like:
+Unpack to your ES plugins folder. Be sure that you have single ``gatling-ammo-fix`` directory inside your plugins folder, containing ``data`` directory. Directory structure should look like:
 
 ```(...)/plugins/gatling-ammo-fix/(.../data/, and other stuff)```
 
