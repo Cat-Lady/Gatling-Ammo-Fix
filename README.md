@@ -13,7 +13,7 @@ https://github.com/Cat-Lady/Gatling-Ammo-Fix/releases
 
 ...for latest, pre-packaged version.
 
-Unpack to your ES plugins folder. Be sure that you have single ``gatling-ammo-fix`` directory inside your plugins folder, containing ``data`` directory. Directory structure should look like:
+Unpack to your ES plugins folder. Be sure that you have single ``gatling-ammo-fix`` directory inside your plugins folder, containing ``data`` folder. Directory structure should look like:
 
 ```(...)/plugins/gatling-ammo-fix/(.../data/, and other stuff)```
 
@@ -30,8 +30,8 @@ It **won't** work if the directory structure will be anything like:
 
 ## License
 
-This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-"Endless Sky" Development Team and Michael Zahniser; For maintaining and creating the game
+"Endless Sky" Development Team and Michael Zahniser; For maintaining and creating the game.
